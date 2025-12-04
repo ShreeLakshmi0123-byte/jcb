@@ -7,6 +7,7 @@ public class jenkisTest {
 	@Test
 	public void jenkisTest() {
 		Reporter.log("Hii jenkis",true);
+		Reporter.log("Bye jenkis",true);
 	}
 
 }
